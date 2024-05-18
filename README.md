@@ -1,2 +1,4 @@
 # promgraming--in-uniersity-CQU
-for the university task in master
+  # pip install requests [ for import the project]
+
+  ## python sighting.py [Run the project]
